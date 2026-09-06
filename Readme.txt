@@ -1,39 +1,11 @@
-test edit -alex fontana
-______________________________________________________
-Program 1 Template (Starter Code) - v. 1.0
-School of Information, University of Arizona 
-July 7, 2022
+Game 351 Fall 2026
+Assignment 1
 
-This code may modified freely by students of
-GAME 351 (Intro to Game Development) for use
-in their assignments. Other uses covered by
-the terms of the GNU Lesser General Public 
-License (LGPL). Note: Some included assets 
-may be subject to differing licensing agree-
-ments as per the policies of their authors.
-
-To install the project, follow these steps:
-
-1) Create a blank 3D project in Unity Hub.
-2) Allow Unity editor to initialize the project.
-3) Save your blank 3D project and exit Unity.
-4) Navigate to project directory in file system.
-5) Drop the "Assets" folder into this directory.
-6) Open and reload the Unity project you created.
-7) In the project navigator, go to the assets directory
-   and find the "Scenes" folder.
-8) Click on the "Planet959 Scene" to load it.
-7) Go to Unity->File->Build Settings and verify that
-   the "Planet959 Scene" is "Scenes in Build" list.
-8) If the scene is not in the build list, click
-   "Add Open Scenes". The scene should appear checked. 
-9) The game template then should be ready for building 
-   and running.
-
-Credits:
- 
-Sample code by Leonard D. Brown, University of Arizona.
-This program was developed for educational purposes.
+Group Members:
+Alex Fontana
+Glenn Keener
+Michael Arvizu
+Michael Maher
 
 Freeware media assets were used from the following sources:
 (1) http://millionthvector.blogspot.com/
@@ -41,3 +13,18 @@ Freeware media assets were used from the following sources:
 (3) https://www.gameartguppy.com/
 (4) https://www.videvo.net/royalty-free-sound-effects/
 (5) https://freesound.org/search/
+
+The Following Packages were used from the Unity Asset Store:
+https://assetstore.unity.com/packages/3d/vegetation/trees/low-poly-tree-pack-57866
+https://assetstore.unity.com/packages/3d/vegetation/trees/free-trees-103208
+https://assetstore.unity.com/packages/2d/textures-materials/nature/yughues-free-ground-materials-13001
+https://assetstore.unity.com/packages/3d/vehicles/space/space-shuttle-34972
+https://assetstore.unity.com/packages/3d/environments/sci-fi/sci-fi-old-rusty-props-pbr-200267
+https://assetstore.unity.com/packages/3d/environments/dungeons/low-poly-dungeons-lite-177937
+https://assetstore.unity.com/packages/2d/textures-materials/brick/p3d-outdoor-wall-tile-texture-pack-lr-247739
+
+Player movement is either WASD or Arrow Keys.
+
+Camera is built with Cinemachine.
+
+Castle is built with ProBuilder.
